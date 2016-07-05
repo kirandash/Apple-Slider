@@ -81,7 +81,7 @@ header {
 
 #menu li.active,
 #menu li.active:hover {
-	background: url('http://timivey.com/external/codepen/thumbslider/active_bg.png') no-repeat;
+	background: url('../images/active_bg.png') no-repeat;
 }
 
 #menu li.active {
@@ -90,13 +90,13 @@ header {
 
 #menu .sep {
 	width: 2px;
-	background: url('http://timivey.com/external/codepen/thumbslider/seperator.png') no-repeat right;
+	background: url('../images/seperator.png') no-repeat right;
 	margin-right: -2px;
 }
 
 #menu li a {
 	display: block;
-	background: url('http://timivey.com/external/codepen/thumbslider/seperator.png') no-repeat right;
+	background: url('../images/seperator.png') no-repeat right;
 	height: 35px;
 	padding-top: 10px;
 }
